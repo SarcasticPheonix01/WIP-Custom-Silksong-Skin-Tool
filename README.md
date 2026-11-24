@@ -26,4 +26,4 @@ Includes the head pasted directly over the body (for simple changes) and a float
 
 # Current State of Project
 I would estimate that this project is around 60% done. I am aware this GitHub page is a bit rough, but it will be updated in the future to actually look pleasant on the eyes. I am not sure when this will be released, but hopefully sometime over the next week. Expect more details from me once we get closer to release! 
-Please send me a message with any questions, comments, or concerns! (__ on discord)
+Please send me a message with any questions, comments, or concerns! (pheonix0581 on discord)
